@@ -14,3 +14,12 @@ Features
 .  Secure Authentication: Implement secure authentication mechanisms to protect user data.
 .  Chat is stored in database.
 .  User can register and login in the chat app.
+
+
+Technologies Used
+Node.js: Server-side runtime environment.
+Express.js: Web application framework for Node.js.
+MongoDB: NoSQL database for storing user data and chat messages.
+Socket.io: Real-time bidirectional event-based communication library.
+JWT: JSON Web Tokens for secure authentication.
+HTML/CSS/JavaScript: Frontend development technologies.
